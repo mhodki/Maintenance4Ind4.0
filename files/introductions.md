@@ -35,7 +35,7 @@ Maintenance | Reliability, Risk and Safety | Asset Management - Professor
 
 ## About you
 
-Tell me something of yourselft
+Tell me something of yourself.
 * Name
 * Briefly - why are you doing this unit?
 * Have you had any experience working in industry?
