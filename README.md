@@ -7,7 +7,7 @@ The goal is to enable data scientists working on classification, prediction and 
 
 Maintenance of assets is a significant cost input for the manufacturing, resources, defence and infrastructure sectors. Maintenance costs typically range between 20–60\% of operational expenditure depending on industry and asset type. There has been significant effort in the last decade to move from reactive to preventative and predictive maintenance strategies propelled by developments in sensing, WiFi, cloud computing, and data analytics. However, generating value from analytics using these platforms has often proved challenging for a number of reasons (see list of useful references below). However one unexplored reason is that what happens in maintenance and the way maintenance management is structured and run inside organisations is not clear to non-maintenance people. This leads to poor decisions being made on what problems to focus on, with many apparently 'killer apps' being impossible to implement or sustain in the real world. 
 
-This 8-10 hour course was developed by [Professor Melinda Hodkiewicz](https://research-repository.uwa.edu.au/en/persons/melinda-hodkiewicz) as part of a sabattical visit to Professor Hedi Karray at ENIT in Tarbes France in 2023. The material was delivered as part of unit NDENI-EC0112M4 - Innovation management. 
+This 8 hour course was developed by [Professor Melinda Hodkiewicz](https://research-repository.uwa.edu.au/en/persons/melinda-hodkiewicz) as part of a sabattical visit to Professor Hedi Karray at ENIT in Tarbes France in 2023. The material was delivered as part of unit NDENI-EC0112M4 - Innovation management. 
 
 ## Learning outcomes
 
