@@ -22,7 +22,11 @@ Although many maintenance related data science projects need it, the focus of th
 * Operational data: sensor data drawn captured via IOT, SCADA or PLC systems, usually time-logged and numerical or binary.
 * Data from other MES systems: Other manufacturing execution systems (MES) capture data specific to execution processes such as inventory management, production planning and dispatch, labour management, product management etc. 
 
-## Maintenance Management workflow
+## Maintenance Management Framework
+
+The image below is from the Global Forum on Maintenance & Asset Management (GFMAM) Maintenance Framework 1st Edition 2016.
+
+Let us discuss the elements in this framework ....
 
 
 <img src="https://github.com/mhodki/Maintenance4Ind4.0/blob/main/files/images/GFMAMframework.jpg" width=50% height=50%>
