@@ -17,7 +17,7 @@ This 8 hour course was developed by [Professor Melinda Hodkiewicz](https://resea
 * Discuss when, and why, predictive maintenance is an appropriate strategy and when it is not.
 * Understand opportunities for natural language and ontologies use on maintenance texts.
 
-These materials are intended to assist data science professionals in gaining an understanding of core concepts in maintenance with the goal of making them aware of the business processes and engineering constraints within which their data pipeline have to operate and their algorithms support.
+These materials are intended to assist data science professionals in gaining an understanding of core concepts in maintenance with the goal of making them aware of the business processes and engineering constraints within which their data pipeline(s) have to operate and their algorithms support.
 
 
 ## Useful links on maintenance in industry 4.0
