@@ -11,8 +11,8 @@ This 8 hour course was developed by [Professor Melinda Hodkiewicz](https://resea
 
 ## Learning outcomes
 
-* Describe key elements of maintenance strategy development and assessment process.
 * Identify steps in the maintenance work management process. 
+* Describe key elements of maintenance strategy development and assessment process.
 * Understand where and how data, commonly used for maintenance models, is generated. 
 * Discuss when, and why, predictive maintenance is an appropriate strategy and when it is not.
 * Understand opportunities for natural language and ontologies use on maintenance texts.
