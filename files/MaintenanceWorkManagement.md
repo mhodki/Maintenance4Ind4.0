@@ -24,7 +24,7 @@ Although many maintenance related data science projects need it, the focus of th
 
 ## Maintenance Management workflow
 
-![Maintenance Management elements](.\images\GFMAMMaintenancemanagementframework.jpg)
+![Maintenance Management elements](\images\GFMAMMaintenancemanagementframework.jpg)
 
 
 
