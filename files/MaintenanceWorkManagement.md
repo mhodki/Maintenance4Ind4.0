@@ -24,8 +24,8 @@ Although many maintenance related data science projects need it, the focus of th
 
 ## Maintenance Management workflow
 
-![Maintenance Management elements](./images/GFMAMMaintenancemanagementframework.jpg)
-<img src="" width=50% height=50%>
+
+<img src="https://github.com/mhodki/Maintenance4Ind4.0/blob/main/files/images/GFMAMframework.jpg" width=50% height=50%>
 
 
 ## What do we mean by Maintenance Strategy?
