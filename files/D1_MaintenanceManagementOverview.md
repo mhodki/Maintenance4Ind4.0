@@ -137,6 +137,8 @@ Often (usually) work orders generated as a result of `condition monitoring`, `in
 
 See [Rethinking maintenance terminology for an industry 4.0 future](http://www.papers.*phmsociety.org/index.php/ijphm/article/view/2932) for more details.
 
+## Wrap up
+
 
 *What are your key take-aways for today?*
 

@@ -1,0 +1,91 @@
+﻿Order,101306264,27344064,27344066,101911951,27426561
+Reference Date,09/11/2009,18/02/2010,11/11/2009,01/02/2010,01/10/2009
+Counter,00000001,00000001,00000001,00000001,00000001
+Unit for work,H,H,H,H,H
+PriorityType,PO,PO,PO,PO,PO
+Order Type,PM01,PM02,PM02,PM01,PM02
+Executn factor,1,1,1,1,1
+Plan no.f.oper.,1004242606,1005298646,1005298648,1005538942,1005471748
+Purch.req.,,,,,
+Requisn. item,00000,00000,00000,00000,00000
+Min. dur. unit,,,,,
+Min. duration,0.0,0.0,0.0,0.0,0.0
+Norm.duratn un.,H,H,H,H,H
+Device data,,,,,
+StartConstraint,,,,,
+Fin. constraint,,,,,
+Purch. Group,,,,,
+Purchasing Org.,,1000,1000,,1000
+Earl.start time,00:00:00,07:00:00,07:00:00,07:00:00,07:00:00
+Earliest finish,02:00:00,08:00:00,11:25:53,10:00:00,07:01:00
+Act.finish date,,,,22/09/2009,30/09/2009
+Actual finish,00:00:00,00:00:00,00:00:00,13:05:45,16:23:07
+Calculation key,2,2,2,2,2
+Info record,,,,,
+Planner group,MFI,MWY,MFI,MFI,RMP
+TechInspectn by,,,,,
+Actual start,,,,22/09/2009,25/09/2009
+Act. start time,00:00:00,00:00:00,00:00:00,07:00:00,07:00:00
+Planning plant,6666,6666,6666,6666,6666
+Std text key,,,,,
+Vendor,,,,,
+No.time tickets,0,0,0,0,0
+Wage Type,,,,,
+Wage group,,,,,
+Description,,,,,
+Material Group,,,,,
+Planned Date,,,,,
+StartTimeConstr,00:00:00,00:00:00,00:00:00,00:00:00,00:00:00
+Fin.time constr,00:00:00,24:00:00,24:00:00,00:00:00,24:00:00
+Forecasted Work,0.0,0.0,0.0,16.0,1.0
+Price Unit,0,0,0,0,0
+Personnel No.,00000000,00000000,00000000,00000000,00000000
+Price,0.00,0.00,0.00,0.00,0.00
+Priority,Very High,High,High,Medium,Very High
+Percent,0,100,100,0,100
+Free float,0,0,0,0,0
+Total float,0,0,0,0,0
+Notification,,,,,
+Suitability,,,,,
+No.conf. slips,000,000,000,000,000
+Confirmation,0005665125,0007145579,0007145581,0007499539,0007400684
+Cost element,,716100,716100,,716100
+Serial number,,,,,
+Material,,,,,
+MaintPlant,6666,6666,6666,6666,6666
+Split number,0,0,0,0,0
+Latest start,28/08/2008,01/09/2009,01/09/2009,22/09/2009,25/09/2009
+Lat. start time,00:00:00,07:00:00,07:00:00,07:00:00,07:00:00
+Lat.finish date,28/08/2008,01/09/2009,01/09/2009,25/09/2009,08/12/2023
+Latest fin.time,02:00:00,08:00:00,11:25:53,10:00:00,07:01:00
+Location,,2520,2520,,2520
+MaintPlant,6666,6666,6666,6666,6666
+Currency,AUD,AUD,AUD,,AUD
+Recipient,,,,,
+Plant,6666,6666,6666,6666,6666
+Oper./Act.,0010,0010,0020,0010,0010
+Suboperation,,,,,
+Opr. short text,ADJUST SLEW MOTOR BRAKES,8 WEEK CLEANLINESS CHECK/CLEANING,GEAR BOX INTERNAL INSPECTION,BWR1 P889 Conveyor Walkway Needs Clean,4W CMon Insp Pulley5 Sev 2 
+Work Center,ZMRMP,ZMWYC,ZMRCM,ZMWYC,ZMRCM
+Earl.start date,28/08/2008,01/09/2009,01/09/2009,22/09/2009,25/09/2009
+Start Constr.,,,,,
+EarliestEndDate,28/08/2008,01/09/2009,01/09/2009,25/09/2009,08/12/2023
+Finish constr.,,,,,
+Priority,1,2,2,3,1
+SystemCondition,,4,4,,2
+Activity Type,,951610,951110,951610,951110
+Control key,PMIN,PMIN,PMIN,PMNC,PMIN
+Long text,,X,X,,
+Work,4.0,1.0,4.0,60.0,1.0
+Number,2,1,1,2,1
+Normal duration,2.0,1.0,4.0,30.0,1.0
+Actual work,0.000,0.000,0.000,16.000,1.000
+Sort field,BWR1SYS,BWR1,BWR1,BWR1-P889,BWR1-P889
+FunctLocation,6666.11.11.11-SW001,6666.11.11.11,6666.11.11.11-BT001-DV01-GB01,6666.11.11.11-CV001-SE01-WY01,6666.11.11.11-CV001-PY01-PY05
+Description,"Slew, BWR1","Reclaimer, BWR1","Gearbox, BWR1","Walkways & Handrails, P889","Pulley 5, Tail, P889"
+Equipment,,,,,
+Description,,,,,
+Assembly,,,,,
+Assembly desc.,,,,,
+System Status,TECO,TECO,TECO,CNF  PRT  TECO,CNF  TECO
+User status,,,,,

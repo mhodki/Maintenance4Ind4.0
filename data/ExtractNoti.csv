@@ -1,0 +1,67 @@
+Notification,77529080,77554037,77724715
+Notif.date,18/09/2007,02/10/2007,04/01/2008
+Description,P1 Belt Thickness Testing,BWR#1 PUNCH LIST INSPECTION,BWR1 BOOM DRIVE GB1 OIL CHANGE OUT
+Planning plant,2222,2222,2222
+FunctLocation,2222.22.22.22-CV001-BT01-BT01,2222.22.22.02,2222.22.22.02-CV001-DV01-GB01
+MaintPlant,1111,1111,1111
+Cost Center,550000,550000,550000
+ABC indic.,,,
+Location,,,
+Plant section,,,
+Equipment,,,
+Assembly,,,
+Breakdown,,,
+Malfunct. start,,30/11/2007,04/01/2008
+Malfunct.end,,,
+StrtMalfn (T),00:00:00,13:26:00,10:26:00
+Malfunction end,00:00:00,00:00:00,00:00:00
+Breakdown dur.,0.00,0.00,0.00
+Unit,H,H,H
+FLoc. affected,,2222.22.22.02,2222.22.22.02-CV001-DV01-GB01
+EquipmtAffctd,,,
+Effect,,,
+AvailBefMalfn,000,000,000
+AvailAftMalfn,000,000,000
+AvailAftTask,000,000,000
+Planner group,MT3,MFI,MFI
+Notifictn type,M1,M1,M1
+Company Code,5014,5014,5014
+PriorityType,PM,PM,PM
+Priority,,4,D
+Created by,ABC1,ABC2,ABC3
+Created on,18/09/2007,02/10/2007,04/01/2008
+Created at,14:35:23,11:26:32,12:27:20
+Changed by,ABC4,ABC5,ABC6
+Changed on,18/09/2007,30/11/2007,06/10/2008
+Changed at,18:09:34,15:26:36,10:32:13
+Notif. time,12:30:48,09:16:54,10:25:40
+Reported by,ABC4,ABC5,ABC7
+Required start,18/09/2007,16/10/2007,16/04/2008
+Req. start time,12:30:48,09:18:01,08:39:08
+Required End,,25/12/2007,16/04/2008
+Req. end time,00:00:00,09:18:01,08:39:08
+Order,26417006,100877476,101139191
+Completn date,18/09/2007,30/11/2007,06/10/2008
+Completion time,16:09:34,13:26:36,07:32:13
+Reference date,18/09/2007,30/11/2007,06/10/2008
+ReferenceTime,18:09:34,15:26:32,10:32:11
+Catalog profile,CNVBLT,BUCKET,GEARBOX
+System status,NOCO ORAS,NOCO ORAS,NOCO ORAS
+Main WorkCtr,ZMWYB,ZMWYG,ZMWYL
+Plnt WorkCenter,1111,1111,1111
+Loc/AccAssmt,,,
+User status,NEW,APPR,APPR
+Description,,,
+Description,"Belt, P889","Reclaimer, BWR8",Gearbox
+PartnerResp.,,BAKEST,
+DescEmpl.Resp.,,Stuart* Baker - WO DELETE:  0139288,
+Object number,QM00007,QM00007,QM000077
+Sort field,,,
+CO Area,5000,5000,5000
+Item,000000,000000,000000
+Material,,,
+Description,,,
+Assembly desc.,,,
+Long text,,X,X
+Priority,,Complete within 3mth,Next Shutdown Period
+Plt for WorkCtr,1111,1111,1111
