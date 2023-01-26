@@ -82,6 +82,8 @@ Maintenance strategy impacts the following:
 
 7. Maintenance STRATEGY also impacts the likelihood of Major Accident Events. If risks are not managed effectively then there can be serious impacts on REPUTATION in the event of loss of life and/or environmental damage.
 
+*Why is an understanding of the above important for data scientists working on maintenance projects?*
+
 ## What do we mean by Maintenance Strategy?
 
 In everyday English, maintenance strategy is the approach we have pre-determined as appropriate to ensure the asset delivers on it's maintenance objectives (availability, cost, safety etc). 
