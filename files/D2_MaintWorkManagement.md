@@ -155,7 +155,19 @@ Condition monitoring tasks are applicable  when:
     style="width:75%"/>
 </div>
 
-*If you are working on a predictive maintenance modelling project then check that your algorithm can detect the defect with enough time to action a corrective maintenance event and have it scheduled through the maintenance management system in a controlled and organised way. This depends on the PF interval, detectability of the fault, efficiency of the algorithm AND the maintenance planning horizon (usually this is ~2 weeks)*
+*If you are working on a predictive maintenance modelling project then check that your algorithm can detect the defect with enough time to action a corrective maintenance event and have it scheduled through the maintenance management system in a controlled and organised way. This depends on the PF interval, detectability of the fault, efficiency of the algorithm AND the maintenance planning horizon (usually this is ~2 weeks).
+
+## Examples
+
+* Modelling of blockage risk in vitrified clay wastewater pipes. 
+To cite this article: Qiang Xie, Chrianna Bharat, R. Nazim Khan, Andrew Best & Melinda
+Hodkiewicz (2016): Cox proportional hazards modelling of blockage risk in vitrified clay
+wastewater pipes, Urban Water Journal
+To link to this article: http://dx.doi.org/10.1080/1573062X.2016.1236135
+
+* Video - Correa et al. Add link.
+
+* Detection of Ragging in Wastewater Pump Stations using Condition Monitoring
 
 ## Wrap up
 
