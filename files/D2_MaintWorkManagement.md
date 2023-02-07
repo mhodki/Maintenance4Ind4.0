@@ -159,16 +159,30 @@ Condition monitoring tasks are applicable  when:
 
 ## Examples
 
-* Modelling of blockage risk in vitrified clay wastewater pipes. 
-To cite this article: Qiang Xie, Chrianna Bharat, R. Nazim Khan, Andrew Best & Melinda
-Hodkiewicz (2016): Cox proportional hazards modelling of blockage risk in vitrified clay
-wastewater pipes, Urban Water Journal
+* `Modelling of blockage risk in vitrified clay wastewater pipes`
+To cite this article: Qiang Xie, Chrianna Bharat, R. Nazim Khan, Andrew Best & Melinda Hodkiewicz (2016): Cox proportional hazards modelling of blockage risk in vitrified clay wastewater pipes, Urban Water Journal
 To link to this article: http://dx.doi.org/10.1080/1573062X.2016.1236135
 
-* Video - Correa et al. Add link.
+* `Managing streamed sensor data for mobile equipment prognostics`
+Video - Correa et al. https://www.youtube.com/watch?v=tWFuKF3NSZM
+Griffiths T, Corrêa D, Hodkiewicz M, Polpo A. Managing streamed sensor data for mobile equipment prognostics. Data-Centric Engineering. 2022;3:e11. 
 
-* Detection of Ragging in Wastewater Pump Stations using Condition Monitoring
+* `Detection of Ragging in Wastewater Pump Stations using Condition Monitoring` - not publically available
+
+## Homework
+* Read this paper before next Monday
+Kwon D, Hodkiewicz MR, Fan J, Shibutani T, Pecht MG. IoT-based prognostics and systems health management for industrial applications. IEEE Access. 2016;4:3659-70.
+Open access at https://ieeexplore.ieee.org/abstract/document/7520653 
+
+Prepare the following
+* Identify an example of IOT-based PHM (from the literature or your own experience)
+* Identify the business need
+* Describe the data and information needed to support development of the model
+* Identify the infrastructure necessary to support deployment and use in the business
+* Identify challenges with development and implementation
+
+Can be done as individuals or in a group.
 
 ## Wrap up
 
-*What are your key take-aways for today?*
+*What are your key take-aways for today?
