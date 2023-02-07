@@ -23,7 +23,12 @@ Recap from last week. What do we remember?
 Kwon D, Hodkiewicz MR, Fan J, Shibutani T, Pecht MG. IoT-based prognostics and systems health management for industrial applications. IEEE Access. 2016;4:3659-70.
 Open access at https://ieeexplore.ieee.org/abstract/document/7520653 
 
-Prepare the following
+# Questions
+* Tell me one interesting thing about this paper for you?
+* Was there anything you wanted clarification about or to discuss?
+
+
+# Prepare the following
 * Identify an example of IOT-based PHM (from the literature or your own experience)
 * Identify the business need
 * Describe the data and information needed to support development of the model
