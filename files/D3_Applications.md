@@ -41,6 +41,14 @@ Open access at https://ieeexplore.ieee.org/abstract/document/7520653
 
 Discuss questions from students about the work we have done thus far and about their work.
 
+## If time
+
+Show video on Platypus and/ or Echidna for technical language processing.
+
+## Next session
+
+Are there any specific concepts/ ideas you want to go over in the last session?
+
 ## Wrap up
 
-*What are your key take-aways for today?
+* What are your key take-aways for today?
